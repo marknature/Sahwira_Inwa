@@ -1,6 +1,6 @@
 # <p align="center">Sahwira Inzwa</p>
 <p align="center">
-  <img src="sahwira inzwa logo.jgeg" alt="sahwira inzwa logo" width="200"/>
+  <img src="https://github.com/marknature/Sahwira_Inwa/blob/main/sahwira%20inzwa%20logo.jpg" alt="sahwira inzwa logo" width="200"/>
 </p>
 
 <p align="center">

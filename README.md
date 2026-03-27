@@ -10,6 +10,8 @@
 ## 🌟 Project Overview
 **Sahwira Inzwa** is an AI-driven application designed to translate sign language gestures into **audible Shona speech** in real time. By leveraging computer vision and natural language processing, the system enables inclusive, natural communication, reducing the high costs and limited availability of human interpreters in Zimbabwe.
 
+[Watch demo](project.mp4)
+
 ## 🚀 Key Features
 *   **Real-time Gesture Recognition:** Uses computer vision to detect and interpret hand movements instantly.
 *   **Localized Audio Output:** Specifically tailored to produce natural Shona voice output, a language often overlooked by global English-centric technologies.

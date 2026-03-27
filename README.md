@@ -1,6 +1,6 @@
 # <p align="center">Sahwira Inzwa</p>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Africa_University_logo.png" alt="Africa University Logo" width="200"/>
+  <img src="sahwira inzwa logo.jgeg" alt="sahwira inzwa logo" width="200"/>
 </p>
 
 <p align="center">
